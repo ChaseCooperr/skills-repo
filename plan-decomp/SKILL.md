@@ -335,9 +335,11 @@ After completing plan + beads creation:
 - Tasks: [count] issues
 
 **Ready issues:**
+
 [output of bd ready]
 
 **First sprint:**
+
 [display task sequence for sprint 1]
 
 **Starting Prompt (copy this in fresh context):**
@@ -346,6 +348,7 @@ After completing plan + beads creation:
 ```
 
 **Proceed now (within current context):**
+
 Ready to place first task `<FIRST_TASK_ID>` in_progress? (y/n)
 
 ## Remember
