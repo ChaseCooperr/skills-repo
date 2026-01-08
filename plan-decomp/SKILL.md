@@ -337,7 +337,16 @@ After completing plan + beads creation:
 **Ready issues:**
 [output of bd ready]
 
-**To begin implementation, pick a ready task and use `superpowers:executing-plans`."**
+**First sprint:**
+[display task sequence for sprint 1]
+
+**Starting Prompt (copy this in fresh context):**
+```
+/beads:update <EPIC_ID> - Sprint 1 : <FEATURE_ID> - begin: <FIRST_TASK_ID>
+```
+
+**Proceed now (within current context):**
+Ready to place first task `<FIRST_TASK_ID>` in_progress? (y/n)
 
 ## Remember
 
